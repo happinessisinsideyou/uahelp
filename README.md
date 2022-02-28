@@ -38,4 +38,11 @@ Donation service courtesy of Monobank - https://uahelp.monobank.ua/
 
 # U'r AMAZING
 
+## After that
+U'll see something like this on your website:
+![image](https://user-images.githubusercontent.com/100626152/156059284-5e36ad14-52b0-4b49-8b19-63766ef7ea57.png)
+It's fully adaptive for all devices!
+
+# Lets bring happy future to our World
+
 ## Feel free to contribute any fixes to this repo
